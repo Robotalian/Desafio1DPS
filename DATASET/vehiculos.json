@@ -1,0 +1,175 @@
+{
+  "empresas_automovilisticas": [
+    {
+      "id": 1,
+      "nombre": "Toyota",
+      "anio_fundacion": 1937,
+      "url_logotipo": "https://ejemplo.com/toyota_logo.png",
+      "descripcion": "Toyota Motor Corporation es una empresa japonesa de fabricación de automóviles.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Corolla",
+          "anio": 2021,
+          "cantidad": 1000000
+        },
+        {
+          "modelo": "Camry",
+          "anio": 2021,
+          "cantidad": 800000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Volkswagen",
+      "anio_fundacion": 1937,
+      "url_logotipo": "https://ejemplo.com/vw_logo.png",
+      "descripcion": "Volkswagen es un fabricante de automóviles alemán.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Golf",
+          "anio": 2021,
+          "cantidad": 700000
+        },
+        {
+          "modelo": "Passat",
+          "anio": 2021,
+          "cantidad": 600000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Ford",
+      "anio_fundacion": 1903,
+      "url_logotipo": "https://ejemplo.com/ford_logo.png",
+      "descripcion": "Ford Motor Company es una empresa estadounidense de fabricación de automóviles.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "F-150",
+          "anio": 2021,
+          "cantidad": 900000
+        },
+        {
+          "modelo": "Mustang",
+          "anio": 2021,
+          "cantidad": 300000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Honda",
+      "anio_fundacion": 1946,
+      "url_logotipo": "https://ejemplo.com/honda_logo.png",
+      "descripcion": "Honda Motor Co., Ltd. es un fabricante japonés de automóviles y motocicletas.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Civic",
+          "anio": 2021,
+          "cantidad": 500000
+        },
+        {
+          "modelo": "Accord",
+          "anio": 2021,
+          "cantidad": 400000
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Chevrolet",
+      "anio_fundacion": 1911,
+      "url_logotipo": "https://ejemplo.com/chevrolet_logo.png",
+      "descripcion": "Chevrolet es una marca de automóviles estadounidense de la empresa General Motors.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Silverado",
+          "anio": 2021,
+          "cantidad": 750000
+        },
+        {
+          "modelo": "Malibu",
+          "anio": 2021,
+          "cantidad": 350000
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "BMW",
+      "anio_fundacion": 1916,
+      "url_logotipo": "https://ejemplo.com/bmw_logo.png",
+      "descripcion": "Bayerische Motoren Werke AG es una empresa alemana fabricante de automóviles de lujo.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Serie 3",
+          "anio": 2021,
+          "cantidad": 300000
+        },
+        {
+          "modelo": "X5",
+          "anio": 2021,
+          "cantidad": 200000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Mercedes-Benz",
+      "anio_fundacion": 1926,
+      "url_logotipo": "https://ejemplo.com/mercedes_logo.png",
+      "descripcion": "Mercedes-Benz es una marca alemana de automóviles y vehículos comerciales.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Clase C",
+          "anio": 2021,
+          "cantidad": 400000
+        },
+        {
+          "modelo": "Clase E",
+          "anio": 2021,
+          "cantidad": 250000
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Nissan",
+      "anio_fundacion": 1933,
+      "url_logotipo": "https://ejemplo.com/nissan_logo.png",
+      "descripcion": "Nissan Motor Co., Ltd. es una empresa japonesa de fabricación de automóviles.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "Altima",
+          "anio": 2021,
+          "cantidad": 600000
+        },
+        {
+          "modelo": "Rogue",
+          "anio": 2021,
+          "cantidad": 500000
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Audi",
+      "anio_fundacion": 1909,
+      "url_logotipo": "https://ejemplo.com/audi_logo.png",
+      "descripcion": "Audi AG es un fabricante de automóviles alemán de gama alta.",
+      "vehiculos_vendidos": [
+        {
+          "modelo": "A4",
+          "anio": 2021,
+          "cantidad": 350000
+        },
+        {
+          "modelo": "Q7",
+          "anio": 2021,
+          "cantidad": 180000
+        }
+      ]
+    }
+  ]
+}

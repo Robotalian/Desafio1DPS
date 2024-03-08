@@ -1,0 +1,114 @@
+{
+  "criptomonedas": [
+    {
+      "id": 1,
+      "nombre": "Bitcoin",
+      "fecha_creacion": "3 de enero de 2009",
+      "creador": "Satoshi Nakamoto",
+      "url_logo": "https://ejemplo.com/bitcoin_logo.png",
+      "caracteristicas": [
+        "Primera criptomoneda descentralizada",
+        "Limitado suministro de 21 millones de monedas"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Ethereum",
+      "fecha_creacion": "30 de julio de 2015",
+      "creador": "Vitalik Buterin",
+      "url_logo": "https://ejemplo.com/ethereum_logo.png",
+      "caracteristicas": [
+        "Plataforma para contratos inteligentes",
+        "Utiliza la criptomoneda Ether (ETH)"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Ripple (XRP)",
+      "fecha_creacion": "2012",
+      "creador": "Chris Larsen y Jed McCaleb",
+      "url_logo": "https://ejemplo.com/ripple_logo.png",
+      "caracteristicas": [
+        "Diseñado para transacciones rápidas y baratas",
+        "Enfoque en integración con instituciones financieras"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Litecoin",
+      "fecha_creacion": "7 de octubre de 2011",
+      "creador": "Charlie Lee",
+      "url_logo": "https://ejemplo.com/litecoin_logo.png",
+      "caracteristicas": [
+        "Basado en el protocolo Bitcoin",
+        "Produce bloques más rápidamente que Bitcoin"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Cardano (ADA)",
+      "fecha_creacion": "2017",
+      "creador": "Charles Hoskinson",
+      "url_logo": "https://ejemplo.com/cardano_logo.png",
+      "caracteristicas": [
+        "Enfoque en seguridad y escalabilidad",
+        "Desarrollo basado en investigación académica"
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Polkadot (DOT)",
+      "fecha_creacion": "26 de mayo de 2020",
+      "creador": "Dr. Gavin Wood",
+      "url_logo": "https://ejemplo.com/polkadot_logo.png",
+      "caracteristicas": [
+        "Plataforma de múltiples cadenas (multichain)",
+        "Interoperabilidad entre cadenas de bloques"
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Chainlink (LINK)",
+      "fecha_creacion": "19 de septiembre de 2017",
+      "creador": "Sergey Nazarov",
+      "url_logo": "https://ejemplo.com/chainlink_logo.png",
+      "caracteristicas": [
+        "Conecta contratos inteligentes con datos del mundo real",
+        "Utiliza oráculos descentralizados"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Stellar (XLM)",
+      "fecha_creacion": "2014",
+      "creador": "Jed McCaleb",
+      "url_logo": "https://ejemplo.com/stellar_logo.png",
+      "caracteristicas": [
+        "Red de pagos rápidos y de bajo costo",
+        "Diseñada para facilitar transferencias internacionales"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Monero (XMR)",
+      "fecha_creacion": "18 de abril de 2014",
+      "creador": "Desconocido (pseudónimo: thankful_for_today)",
+      "url_logo": "https://ejemplo.com/monero_logo.png",
+      "caracteristicas": [
+        "Enfocado en la privacidad y la anonimidad",
+        "Utiliza el algoritmo de prueba de trabajo CryptoNight"
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Uniswap (UNI)",
+      "fecha_creacion": "2 de noviembre de 2018",
+      "creador": "Hayden Adams",
+      "url_logo": "https://ejemplo.com/uniswap_logo.png",
+      "caracteristicas": [
+        "Protocolo de intercambio descentralizado (DEX)",
+        "Basado en contratos inteligentes en la red Ethereum"
+      ]
+    }
+  ]
+}

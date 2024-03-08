@@ -1,0 +1,84 @@
+{
+  "destinos_turisticos": [
+    {
+      "id": 1,
+      "nombre": "Machu Picchu",
+      "pais": "Perú",
+      "atracciones": ["Ciudadela Inca", "Montaña Huayna Picchu", "Templo del Sol"],
+      "descripcion": "Antigua ciudad inca en lo alto de los Andes.",
+      "imagen": "https://ejemplo.com/machu_picchu.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Kioto",
+      "pais": "Japón",
+      "atracciones": ["Templo Kinkaku-ji", "Fushimi Inari Taisha", "Gion"],
+      "descripcion": "La ciudad de los mil santuarios, donde la tradición y la modernidad se entrelazan.",
+      "imagen": "https://ejemplo.com/kioto.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Santorini",
+      "pais": "Grecia",
+      "atracciones": ["Oia", "Acrópolis de Akrotiri", "Playa de Perissa"],
+      "descripcion": "Isla volcánica en el mar Egeo con impresionantes vistas y arquitectura blanca.",
+      "imagen": "https://ejemplo.com/santorini.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Gran Barrera de Coral",
+      "pais": "Australia",
+      "atracciones": ["Arrecifes de coral", "Buceo y snorkel", "Islas Whitsunday"],
+      "descripcion": "El sistema de arrecifes de coral más grande del mundo.",
+      "imagen": "https://ejemplo.com/great_barrier_reef.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Bora Bora",
+      "pais": "Polinesia Francesa",
+      "atracciones": ["Monte Otemanu", "Laguna de aguas cristalinas", "Bungalows sobre el agua"],
+      "descripcion": "Isla paradisíaca con playas de arena blanca y aguas turquesas.",
+      "imagen": "https://ejemplo.com/bora_bora.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Nueva York",
+      "pais": "Estados Unidos",
+      "atracciones": ["Times Square", "Central Park", "Estatua de la Libertad"],
+      "descripcion": "La ciudad que nunca duerme, llena de cultura, arte y rascacielos imponentes.",
+      "imagen": "https://ejemplo.com/new_york.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Monte Everest",
+      "pais": "Nepal",
+      "atracciones": ["Cumbre más alta del mundo", "Ruta de escalada", "Campo Base"],
+      "descripcion": "La montaña más alta de la Tierra, desafiante para alpinistas y fuente de asombro.",
+      "imagen": "https://ejemplo.com/mount_everest.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Barcelona",
+      "pais": "España",
+      "atracciones": ["Sagrada Familia", "Parque Güell", "La Rambla"],
+      "descripcion": "Ciudad vibrante con arquitectura modernista y una rica escena cultural.",
+      "imagen": "https://ejemplo.com/barcelona.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Amazonas",
+      "pais": "Brasil",
+      "atracciones": ["Selva amazónica", "Río Amazonas", "Fauna y flora exuberantes"],
+      "descripcion": "La selva tropical más grande del mundo, hogar de una biodiversidad única.",
+      "imagen": "https://ejemplo.com/amazon_rainforest.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Dubai",
+      "pais": "Emiratos Árabes Unidos",
+      "atracciones": ["Burj Khalifa", "Dubai Mall", "Palm Jumeirah"],
+      "descripcion": "Ciudad de lujo y modernidad, con rascacielos impresionantes y atracciones extravagantes.",
+      "imagen": "https://ejemplo.com/dubai.jpg"
+    }
+  ]
+}
